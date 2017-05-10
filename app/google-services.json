@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "404050520416",
+    "firebase_url": "https://therapy-afe67.firebaseio.com",
+    "project_id": "therapy-afe67",
+    "storage_bucket": "therapy-afe67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404050520416:android:7be23d2af2fe3743",
+        "android_client_info": {
+          "package_name": "com.example.rohil.therapy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404050520416-7il3rm1277rpcihdqae3fv0fu1idgtdm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rohil.therapy",
+            "certificate_hash": "78e5e87c25d8bde642cc5f423787d1b7415e17e6"
+          }
+        },
+        {
+          "client_id": "404050520416-q09f99nhkog8l66stokkql8jfbeqe569.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2WuA-oC_E9bWfjra3GFcXmJ_XQvW_oSg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404050520416-q09f99nhkog8l66stokkql8jfbeqe569.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
